@@ -1,1 +1,2 @@
 # actualwebsiteconsistency.github.io
+This brief project is a website that, unlike my previous projects, actually saves when the user refreshes their browser! How revolutionary! It's essentially just a virtual bulletin board that only you can see, and you can add as many notes as you want! Think before you post a note, though, since there is no way to delete a note without clearing out your localStorage for the site, which gets rid of all notes. To access the object, either run it in VS Code and run it to your browser or simply open the GitHub Pages link for the repository.
